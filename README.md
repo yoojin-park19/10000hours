@@ -19,7 +19,7 @@
 
 ### 2.2 배포 URL
 
-<a href="https://yoojin-park19.github.io/10000hours/">https://yoojin-park19.github.io/10000hours/</a>
+<a href="https://yoojin-park19.github.io/10000hours/10000hour/">https://yoojin-park19.github.io/10000hours/10000hour/</a>
 
 ### 4. 개발계기
 " 어떤 분야의 전문가가 되려면 최소한 1만 시간 정도의 훈련이 필요하다."
